@@ -1,0 +1,9 @@
+#!/bin/bash
+# Download the stable version of chromium
+# wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
+
+# Install Linux Standard Base specification library & X.Org X11 libXss runtime library
+# yum -y install redhat-lsb libXScrnSaver
+
+# Install Stable version of Chromium
+# yum -y localinstall google-chrome-stable_current_x86_64.rpm
